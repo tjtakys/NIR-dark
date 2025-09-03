@@ -1,3 +1,12 @@
+# ALMA MS data
+ALMA_imaging/
+
+# cluster lens model
+lens_modeling/cluster_model/
+
+# zip files
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
