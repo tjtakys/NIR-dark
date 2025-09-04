@@ -29,7 +29,7 @@ The workflow is intended for studying **one galaxy at a time**, followed by comp
 
 5. **`plots_all_galaxies.py`**  
    - Generates comparison plots across all galaxies studied.  
-   - Unlike the other scripts, the working directories for each individual galaxy must be specified within the script.  
+   - Unlike the other scripts, the working directories for each individual galaxy must be specified within the script (in a list in the main function only for this script).  
    - Should be executed only after completing the analysis of all galaxies of interest.
 
 ---
